@@ -18,7 +18,7 @@
            "esm_likert_step": 1,
            "esm_submit": "Next",
            "esm_expiration_threshold": 60,
-           "esm_trigger": "bd-q9",
+           "esm_trigger": "bd-q1",
            "esm_na": 0}
      },
      {"esm": {
@@ -31,7 +31,7 @@
           "esm_likert_step": 1,
           "esm_submit": "Next",
           "esm_expiration_threshold": 60,
-          "esm_trigger": "bd-q11",
+          "esm_trigger": "bd-q2",
           "esm_na": 0}
      },
      {"esm": {
@@ -44,7 +44,7 @@
            "esm_likert_step": 1,
            "esm_submit": "Next",
            "esm_expiration_threshold": 60,
-           "esm_trigger": "bd-q12",
+           "esm_trigger": "bd-q3",
            "esm_na": 0}
       },
       {"esm": {
@@ -57,7 +57,7 @@
             "esm_likert_step": 1,
             "esm_submit": "Next",
             "esm_expiration_threshold": 60,
-            "esm_trigger": "bd-q13",
+            "esm_trigger": "bd-q4",
             "esm_na": 0}
        },
        {"esm": {
@@ -70,7 +70,7 @@
              "esm_likert_step": 1,
              "esm_submit": "Next",
              "esm_expiration_threshold": 60,
-             "esm_trigger": "bd-q14",
+             "esm_trigger": "bd-q5",
              "esm_na": 0}
       },
       {"esm": {
@@ -83,7 +83,7 @@
              "esm_likert_step": 1,
              "esm_submit": "Next",
              "esm_expiration_threshold": 60,
-             "esm_trigger": "bd-q15",
+             "esm_trigger": "bd-q6",
              "esm_na": 0}
       },
       {"esm": {
@@ -96,7 +96,7 @@
                 "esm_likert_step": 1,
                 "esm_submit": "Next",
                 "esm_expiration_threshold": 60,
-                "esm_trigger": "bd-q16",
+                "esm_trigger": "bd-q7",
                 "esm_na": 0}
        },
        {"esm": {
@@ -109,7 +109,7 @@
              "esm_likert_step": 1,
              "esm_submit": "Next",
              "esm_expiration_threshold": 60,
-             "esm_trigger": "bd-q17",
+             "esm_trigger": "bd-q8",
              "esm_na": 0}
       },
       {"esm": {
@@ -122,7 +122,7 @@
              "esm_likert_step": 1,
              "esm_submit": "Next",
              "esm_expiration_threshold": 60,
-             "esm_trigger": "bd-q18",
+             "esm_trigger": "bd-q9",
              "esm_na": 0}
        },
        {"esm": {
@@ -135,7 +135,7 @@
               "esm_likert_step": 1,
               "esm_submit": "Next",
               "esm_expiration_threshold": 60,
-              "esm_trigger": "bd-q19",
+              "esm_trigger": "bd-q10",
              "esm_na": 0}
        },
        {"esm": {
@@ -148,7 +148,7 @@
               "esm_likert_step": 1,
               "esm_submit": "Next",
               "esm_expiration_threshold": 60,
-              "esm_trigger": "bd-q20",
+              "esm_trigger": "bd-q11",
               "esm_na": 0}
         },
     ]
